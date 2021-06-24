@@ -1,0 +1,2 @@
+# What is this?
+This repository is a place to collaborate on WAF policies for popular web applications. If you need to protect an application consider to review and pick a policy created by this community. Otherwise contribute your version of a policy.
